@@ -112,7 +112,7 @@ img .wrap{
   bottom: 0;
   width: 100%;
   position: absolute;
-  height: $height-footer;
+  /*height: $height-footer;*/
   background-color: darkgray;
   text-align: center;
   border-top: orange;
